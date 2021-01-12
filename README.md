@@ -1,4 +1,4 @@
-# coms4995_adl_proj
+# COMS4995 Applied Deep Learning Final Project
 Project by Daryl Kow and Isaac Lim on Detecting Cancer Metastases on Gigapixel Pathology Images
 
 Code written requires model checkpoints due to specific project submission requirements.
